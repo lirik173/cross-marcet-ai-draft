@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cross-marcet-ai-draft", "cross-marcet-ai-draft.csproj", "{1843F7BE-B103-4A8A-AF79-A7F19EEE8865}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cross-market-ai-draft", "..\cross-market-ai-draft\cross-market-ai-draft.csproj", "{2F53B37B-428E-43EA-9F74-A7F78FF9E6A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1843F7BE-B103-4A8A-AF79-A7F19EEE8865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1843F7BE-B103-4A8A-AF79-A7F19EEE8865}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1843F7BE-B103-4A8A-AF79-A7F19EEE8865}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1843F7BE-B103-4A8A-AF79-A7F19EEE8865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F53B37B-428E-43EA-9F74-A7F78FF9E6A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F53B37B-428E-43EA-9F74-A7F78FF9E6A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F53B37B-428E-43EA-9F74-A7F78FF9E6A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F53B37B-428E-43EA-9F74-A7F78FF9E6A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
